@@ -1,0 +1,15 @@
+node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/*.db
+data/.secret_key
+data/credenciales_iniciales.txt
+data/importaciones/
+
+# Inicio con un clic
+backend/.venv/
+tools/
+ENLACES.txt

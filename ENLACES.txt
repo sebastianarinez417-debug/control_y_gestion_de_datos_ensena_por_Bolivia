@@ -1,0 +1,6 @@
+Enlaces de la última ejecución
+
+  En esta computadora:
+    http://localhost:8000
+  Otros dispositivos de la MISMA red · Adaptador de LAN inal mbrica Wi-Fi:
+    http://172.20.10.2:8000
